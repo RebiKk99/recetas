@@ -1,1 +1,42 @@
+h1 {
+    color: blue;
+}
 
+p,
+li {
+    font-size: large;
+}
+
+.index {
+    color: blueviolet;
+}
+
+li.index {
+    color: rgb(3, 9, 92);
+}
+
+ul.coliflor li {
+    color: green;
+}
+
+img + p {
+    color: rgb(217, 86, 108);
+    text-decoration: overline;
+}
+
+ol {
+    list-style-type: lower-roman;
+}
+
+h2 {
+    padding: 25px;
+}
+
+li {
+    margin-right: 1250px;
+}
+
+img.portada {
+    height: 550px;
+    width: 550px;
+}
